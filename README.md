@@ -147,3 +147,9 @@ Early stage. Read [`CLAUDE.md`](CLAUDE.md) first — safety rules in §4 of the 
 ## License
 
 Apache 2.0
+
+---
+
+This was developed for Zalify and to work seamlessly with Zalify's Analytics and Attribution so that there are no blind gaps between first and last click flow.
+
+Visit [Zalify Attribution](https://zalify.com/attribution) to learn more.
