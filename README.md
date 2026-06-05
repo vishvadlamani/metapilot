@@ -6,8 +6,6 @@ Open-source, AI-powered Meta Ads manager. Wraps Meta's official `meta-ads` CLI i
 
 **Scope:** Phase 1 is **single-account**. Set `AD_ACCOUNT_ID=act_…` in your environment; every command that touches campaigns/ad sets/ads requires it. Managing multiple accounts in one session is Phase 2.
 
-Full spec: [`specs/MetaPilot_ProductSpec_v1.docx`](specs/MetaPilot_ProductSpec_v1.docx).
-
 ---
 
 ## Why
@@ -148,4 +146,4 @@ Early stage. Read [`CLAUDE.md`](CLAUDE.md) first — safety rules in §4 of the 
 
 ## License
 
-MIT.
+Apache 2.0
