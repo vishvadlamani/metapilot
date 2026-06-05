@@ -1,0 +1,24 @@
+{
+  "name": "metapilot",
+  "version": "0.0.1",
+  "description": "AI-powered Meta Ads manager — Claude Code skill wrapping Meta's official Ads CLI.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "metapilot": "./src/index.ts"
+  },
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "build": "bun build src/index.ts --compile --outfile metapilot",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test"
+  },
+  "engines": {
+    "bun": ">=1.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.4.0"
+  }
+}

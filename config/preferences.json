@@ -1,0 +1,6 @@
+{
+  "defaultDateRange": "last_7d",
+  "currency": "USD",
+  "compactOutput": false,
+  "accountTimezone": "UTC"
+}

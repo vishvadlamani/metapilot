@@ -1,0 +1,7 @@
+{
+  "targetCpaCents": 3000,
+  "minCtr": 0.01,
+  "maxFrequency": 3.5,
+  "ctrDropPctThreshold": 0.20,
+  "minRoas": 2.0
+}
